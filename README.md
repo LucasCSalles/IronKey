@@ -1,6 +1,7 @@
 # ironkey
 
 A new Flutter project.
+Flutter pub get
 
 ## Getting Started
 
